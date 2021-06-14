@@ -1,0 +1,33 @@
+* {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: 200;
+    color: white;
+    background-image: url(./img.jpg);
+    background-size: 1920px 930px;
+    overflow: hidden;
+    position: relative;
+    background-attachment: fixed;
+    touch-action: none;
+    
+   
+}
+
+
+.Typist span {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 7em;
+    background-attachment: fixed;
+    
+    
+   
+    
+}
+.player {
+    display: flex;
+    justify-content: end;
+    align-content: flex-end;
+    padding-top: 500px;
+    flex-direction: row;
+
+}
