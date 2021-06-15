@@ -37,6 +37,6 @@ function Type() {
              </Typist>
         </div>
     )
-}
+};
 
 export default Type
