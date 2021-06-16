@@ -1,70 +1,175 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+ 
 
-### `npm start`
+  <h3 align="center">Relax</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    A place where you find peace.
+    <br />
+    <a href="https://github.com/shashannkbawa/relax"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://shashannkbawa.github.io/relax/">View Demo</a>
+    ·
+    <a href="https://github.com/shashannkbawa/relax/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/shashannkbawa/relax/issues">Request Feature</a>
+  </p>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- ABOUT THE PROJECT -->
+## About The Project
+We all have been looking for a place where we can sit and enjoy the music. After a hectic day, there is still a place where we can enjoy the peace. For some of us it's a Home, for some it's their loved ones.
+<br />
+Quoting Jiraiya Sensei - <strong>A place where someone thinks about you is a place you can call Home</strong>
+<br />
+As we all have gone through a lot in this pandemic. So why not we just relax for a while and have a deep breath and just Relax.....
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+[![ Screen Shot][screenshot]]("Images/screenshot.png")
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[![ Screen Shot][screenshot]]("Images/rotate.png")
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Built With
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [React](https://reactjs.org/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<!-- GETTING STARTED -->
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+To get a local copy up and running follow these simple steps.
 
-### Making a Progressive Web App
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-### Advanced Configuration
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Clone the repo
+   ```sh
+   git clone https://github.com/shashannkbawa/relax.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+<!-- USAGE EXAMPLES -->
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/shashannkbawa/relax/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Shashank Sharma - [@prodigiousPrani](https://twitter.com/prodigiousPrani) - email
+
+Project Link: [https://github.com/shashannkbawa/relax](https://github.com/shashannkbawa/relax)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [React-typist](https://www.npmjs.com/package/react-typist)
+* [React-Audio-Player](https://www.npmjs.com/package/react-audio-player)
+
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/shashannkbawa/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/shashannkbawa/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shashannkbawa/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/shashannkbawa/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/shashannkbawa/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/shashannkbawa/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shashannkbawa/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/shashannkbawa/repo/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[
+
+[linkedin-url]: https://linkedin.com/in/shashank-sharma-abvgiet
