@@ -1,22 +1,15 @@
 
 import './App.css';
-
-//import 'bootstrap/dist/css/bootstrap.min.css';
-import './components/style.css';
+import './Style/style.css';
 
 import Home from './components/Home';
 
-
-
-
 function App() {
-  
-  return (
-    <div className = "App" >
-      <Home/>
-    </div>
 
-        
+  return (
+    <div className="app" >
+      <Home />
+    </div>
   )
 }
 

@@ -1,0 +1,148 @@
+* {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: 200;
+    color: white;
+    background-image: url(../Images/img.jpg) ; 
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+    background-attachment: fixed;
+    touch-action: none;
+}
+
+
+.Typist span {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 7em;
+    background-attachment: fixed;
+}
+
+
+.player {
+    display: flex;
+    justify-content: end;
+    align-content: flex-end;
+    padding-top: 500px;
+    flex-direction: row;
+}
+
+
+#pleaserotate-graphic{
+    fill: #fff;
+}
+
+
+#pleaserotate-backdrop {
+    color: #fff;
+    background-color: #000;
+}
+
+
+@media only screen and (max-width: 299px) {
+    .Typist span {
+        font-size: 1em;
+    }
+    .screen, .body{
+      max-height: 900px;
+      max-width: 299px;
+    }
+}
+
+
+@media only screen and (min-width:300px ) {
+  .Typist span {
+      font-size: 3em;
+  }
+}
+
+
+@media only screen and (min-width:600px ) {
+  .Typist span {
+      font-size: 50px;
+  }
+}
+
+
+@media only screen and (min-width:900px ) {
+  .Typist span {
+      font-size: 5em;
+  }
+  .player {
+      display: flex;
+      justify-content: end;
+      align-content: flex-end;
+      padding-top: 500px;
+      flex-direction: row;
+  
+  }
+  
+}
+@media only screen and (min-width:1200px ) {
+  .Typist span {
+      font-size: 7em;
+  }
+  .player {
+      display: flex;
+      justify-content: end;
+      align-content: flex-end;
+      padding-top: 500px;
+      flex-direction: row;
+  }
+  
+}
+
+
+@media screen and (max-width:500px){
+  *{
+    background: none;
+  }
+  
+}
+
+
+.screen, .body {
+  background: black;
+  height: 800px;
+  width: 400px;
+}
+
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.phone {
+  height: 100px;
+  width: 200px;
+  border: 3px solid white;
+  border-radius: 10px;
+  animation: rotate 1.5s ease-in-out infinite alternate;
+  background-image: url(../Images/img.jpg) ; 
+  background-size: cover;
+}
+
+
+.message {
+  color: white;
+  font-size: 1em;
+  margin-top: 70px;
+}
+
+
+@keyframes rotate {
+  0% {
+        transform: rotate(0deg)
+    }
+  50%{
+      transform: rotate(-90deg)
+  }
+  100% {
+      transform: rotate(-90deg)
+  }
+}
+
