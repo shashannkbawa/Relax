@@ -1,17 +1,16 @@
 
-
-[![Stargazers][stars-shield]][https://github.com/shashannkbawa/relax/stargazers]
-[![Issues][issues-shield]][https://github.com/shashannkbawa/relax/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shashank-sharma-abvgiet/]
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shashannkbawa/relax">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ 
 
   <h3 align="center">Relax</h3>
 
