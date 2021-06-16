@@ -1,10 +1,4 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -65,10 +59,9 @@ Quoting Jiraiya Sensei - <strong>A place where someone thinks about you is a pla
 <br />
 As we all have gone through a lot in this pandemic. So why not we just relax for a while and have a deep breath and just Relax.....
 
+![alt text](https://github.com/shashannkbawa/relax/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/shashannkbawa/relax/blob/master/rotate.png?raw=true)
 
-[![ Screen Shot][screenshot]]("Images/screenshot.png")
-
-[![ Screen Shot][screenshot]]("Images/rotate.png")
 
 
 
@@ -142,7 +135,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Shashank Sharma - [@prodigiousPrani](https://twitter.com/prodigiousPrani) - email
+Shashank Sharma - [@prodigiousPrani](https://twitter.com/prodigiousPrani) - shashanksharma092002@gmail.com
 
 Project Link: [https://github.com/shashannkbawa/relax](https://github.com/shashannkbawa/relax)
 
@@ -170,6 +163,6 @@ Project Link: [https://github.com/shashannkbawa/relax](https://github.com/shasha
 [issues-shield]: https://img.shields.io/github/issues/shashannkbawa/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/shashannkbawa/repo/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[
 
-[linkedin-url]: https://linkedin.com/in/shashank-sharma-abvgiet
+
+[linkedin-url]: https://linkedin.com/in/shashannkbawa
