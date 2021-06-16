@@ -59,7 +59,7 @@ We all have been looking for a place where we can sit and enjoy the music. After
 <br />
 As we all have gone through a lot in this pandemic. So why not we just relax for a while and have a deep breath and just Relax.....
 
-![Screenshot](/src/Images/screenshot.png)
+![Screenshot](/src/Images/Screenshot.png)
 
 ![Screenshot](/src/Images/rotate.png)
 
