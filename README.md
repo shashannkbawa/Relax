@@ -55,13 +55,13 @@
 ## About The Project
 We all have been looking for a place where we can sit and enjoy the music. After a hectic day, there is still a place where we can enjoy the peace. For some of us it's a Home, for some it's their loved ones.
 <br />
-Quoting Jiraiya Sensei - <strong>A place where someone thinks about you is a place you can call Home</strong>
+>Quoting Jiraiya Sensei - <strong>A place where someone thinks about you is a place you can call Home</strong>
 <br />
 As we all have gone through a lot in this pandemic. So why not we just relax for a while and have a deep breath and just Relax.....
 
-![alt text](https://github.com/shashannkbawa/relax/blob/master/screenshot.png?raw=true)
-![alt text](https://github.com/shashannkbawa/relax/blob/master/rotate.png?raw=true)
+![Screenshot](/Images/screenshot.png)
 
+![Screenshot](/Images/rotate.png)
 
 
 
